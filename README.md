@@ -25,6 +25,8 @@ After installing the necessary tools, run npm run start:dev to set up the applic
 
 ![JATE](https://user-images.githubusercontent.com/106570933/199159973-0c471a22-df74-4c02-a495-7b95fffc2b0e.png)
 
+[Deployed Application](https://dreadful-phantom-92680.herokuapp.com/)
+
 ## Contributing
 
 This project is not accepting contributions at this time.
